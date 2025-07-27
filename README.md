@@ -1,5 +1,7 @@
+# 💫 Hi 👋, I'm Piyush Satpathy
+**A passionate Web Developer || QA Tester
 
-
+Email Me 👉 ✉️ **piyushsatpathy22@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushsatpathy22@gmail.com) 
