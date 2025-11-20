@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Piyush Satpathy
-**A passionate Web Developer || QA Tester
+**Full-Stack Developer | Building Scalable & Modern Web Applications
 
 Email Me 👉 ✉️ **piyushsatpathy22@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
