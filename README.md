@@ -32,7 +32,7 @@ const piyush = {
   name        : "Piyush Satpathy",
   role        : "Full-Stack Developer",
   focus       : ["Web Applications", "AI Integrated SaaS"],
-  currentlyOn : "Building scalable full-stack projects with React & Node.js end to end with integrated AI",
+  currentlyOn : "Building scalable, AI-integrated SaaS — end to end, idea to ship",
   learning    : ["Gen AI", "LLMs"],
   openTo      : "Collaborations · Freelance · Full-time Roles",
 };
