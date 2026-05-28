@@ -16,7 +16,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsatpathy22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://piyushsatpathy.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P1YUSH4)
 
 [![](https://visitcount.itsvg.in/api?id=P1YUSH4&icon=0&color=0)](https://visitcount.itsvg.in)
